@@ -109,8 +109,8 @@ ul, ol {
 	margin-left: 3em;
 }
 code {
-	font-size:1.4em;
 	background: #eee;
+    padding: 0 0.3em;
 }
 pre {
 	font-size: 0.8em;
