@@ -120,6 +120,10 @@ pre {
 	white-space: pre;
 	white-space: pre\9;
 }
+pre > code {
+    font-size: 1.4em;
+    padding: 0;
+}
 input {
 	font-size:1em;
 	padding: 0.3em;
